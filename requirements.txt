@@ -1,0 +1,10 @@
+black[jupyter]
+jupyter_client
+jupyter_core
+ipykernel
+ipython
+numpy
+pip
+Pillow
+scikit-image
+torch
