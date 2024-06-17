@@ -1,8 +1,9 @@
 black[jupyter]
-jupyter_client
-jupyter_core
+httpx
 ipykernel
 ipython
+jupyter_client
+jupyter_core
 numpy
 pip
 Pillow
