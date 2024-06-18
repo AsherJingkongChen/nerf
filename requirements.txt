@@ -9,3 +9,4 @@ pip
 Pillow
 scikit-image
 torch
+tqdm
