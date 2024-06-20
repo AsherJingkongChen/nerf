@@ -7,5 +7,6 @@ This repository contains my implementation of the NeRF (Neural Radiance Fields) 
 ## Features
 
 - [**`simple_nerf.ipynb`**](./simple_nerf.ipynb): A simple implementation of NeRF in PyTorch and IPython notebook format.
+- [**`simple_nerf.pdf`**](./simple_nerf.pdf): A PDF version of the executed IPython notebook.
 - [**`tiny_nerf_data.npz`**](./tiny_nerf_data.npz): A small dataset for experiment evaluation.
   - Original dataset URL: http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV20/nerf/tiny_nerf_data.npz
